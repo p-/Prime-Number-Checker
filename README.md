@@ -7,6 +7,9 @@
 
 > Checks if inputted int is a prime number or not
 
+***
+Made with Java 16
+***
 ## Install
 
 ```sh
