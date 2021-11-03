@@ -3,6 +3,7 @@
   <a href="https://github.com/AdamCraftmaster/Prime-Number-Checker/blob/main/LICENSE" target="_blank">
     <img alt="License: gplv3" src="https://img.shields.io/badge/License-gplv3-yellow.svg" />
   </a>
+  <a href="https://www.codefactor.io/repository/github/adamcraftmaster/prime-number-checker"><img src="https://www.codefactor.io/repository/github/adamcraftmaster/prime-number-checker/badge" alt="CodeFactor" /></a>
 </p>
 
 > Checks if inputted int is a prime number or not
