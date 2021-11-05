@@ -19,7 +19,7 @@ mvn package -f "(location of pom.xml)"
 ## Usage
 
 ```sh
-java -cp .\target\primenumcheck-x.x-SNAPSHOT.jar me.adamcraftmaster.App
+java -jar .\target\primenumcheck-x.x-SNAPSHOT.jar
 ```
 
 ## Author
