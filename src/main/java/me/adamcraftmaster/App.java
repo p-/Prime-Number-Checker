@@ -18,6 +18,12 @@ public class App
         }
     }
 
+    
+    /** 
+     * A method to check if a number is prime
+     * @param num the number to check
+     * @return boolean: is the number prime?
+     */
     public static boolean isPrime(int num) {
         //step 1: check if num is less than or equal to 1
         if (num <= 1) {

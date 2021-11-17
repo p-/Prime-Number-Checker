@@ -4,11 +4,11 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-/**
- * Unit test to ensure if given number is prime
- */
 public class AppTest 
 {
+    /**
+     * Unit test to ensure if given number is prime
+     */
     @Test
     public void testIsPrime()
     {
@@ -24,6 +24,9 @@ public class AppTest
         assertTrue(tester.isPrime(17));
         assertTrue(tester.isPrime(19));
     }
+    /**
+     * Unit test to ensure if given number is not prime
+     */
     @Test
     public void testIsNotPrime()
     {
