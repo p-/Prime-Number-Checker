@@ -22,6 +22,12 @@ mvn package -f "(location of pom.xml)"
 java -jar .\target\primenumcheck-x.x-SNAPSHOT.jar
 ```
 
+## Run tests
+
+```sh
+mvn test -f "(location of pom.xml)"
+```
+
 ## Author
 
 👤 **Adam Nativ**
