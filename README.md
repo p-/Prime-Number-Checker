@@ -4,6 +4,7 @@
     <img alt="License: gplv3" src="https://img.shields.io/badge/License-gplv3-yellow.svg" />
   </a>
   <a href="https://www.codefactor.io/repository/github/adamcraftmaster/prime-number-checker"><img src="https://www.codefactor.io/repository/github/adamcraftmaster/prime-number-checker/badge" alt="CodeFactor" /></a>
+  <a href="https://github.com/AdamCraftmaster/Prime-Number-Checker/actions/workflows/maven.yml"><img src="https://github.com/AdamCraftmaster/Prime-Number-Checker/actions/workflows/maven.yml/badge.svg" alt="Java CI with Maven"></a>
 </p>
 
 > Checks if inputted int is a prime number or not
